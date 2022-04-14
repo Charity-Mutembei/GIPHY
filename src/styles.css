@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: black;
+}
+.btn-primary {
+    color: #fff;
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+.btn-dark {
+    color: #fff;
+    background-color: grey;
+    border-color: grey;
+}
+.btn-dark {
+    color: #fff;
+    background-color: rgb(69, 68, 68);
+    border-color: grey;
+    width: 5cm;
+}
+.btn-success {
+    color: #fff;
+    background-color: grey;
+    border-color: grey;
+}
+/* header in the first  */
+
+i.fa.fa-search{
+    color: white;
+    border: 1px solid black;
+    width: 1cm;
+    background-image: url(assets/Rainbow.jpg);
+    text-align: center;
+    font-size: 0.7cm;
+}
